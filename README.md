@@ -6,6 +6,8 @@ This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://y
 
 ## Week 1 Linear Algebra
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+Essence of Linear Algebra : https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Linear Algebra Refresher : https://classroom.udacity.com/courses/ud953
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 Probability
