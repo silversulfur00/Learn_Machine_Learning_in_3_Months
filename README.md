@@ -46,3 +46,9 @@ http://course.fast.ai/
 ## Week 3-4 
 Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
+
+
+# Other Course Paths : 
+David Venturi : http://davidventuri.com/data-science-masters#scroll
+Medium Posts : https://medium.com/@davidventuri
+Sean McClure : https://www.quora.com/If-you-are-mentoring-someone-to-become-a-data-scientist-using-Python-from-0-knowledge-what-would-the-learning-path-look-like
